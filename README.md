@@ -8,8 +8,6 @@
   </picture>
 </p>
 
-<h1 align="center">wtshex-ch</h1>
-
 ---
 
 ## 🖥️ Workstation
