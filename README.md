@@ -1,4 +1,3 @@
-# wtshex-ch
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wtshex-ch/wtshex-ch/main/assets/emblem-dark.png">
