@@ -1,24 +1,21 @@
+<!-- Profil GitHub · wtshex-ch -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wtshex-ch/wtshex-ch/main/assets/emblem-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wtshex-ch/wtshex-ch/main/assets/emblem-light.png">
-  <img src="https://raw.githubusercontent.com/wtshex-ch/wtshex-ch/main/assets/emblem-light.png" alt="wtshex-ch emblem" width="240">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/emblem-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/emblem-dark.png">
+    <img alt="wtshex-ch emblem" src="assets/emblem-dark.png" width="240">
+  </picture>
+</p>
 
-## Workstation
-
-| <img src="https://raw.githubusercontent.com/wtshex-ch/wtshex-ch/main/assets/workstation-1.jpg" alt="Workstation 1" width="100%"> | <img src="https://raw.githubusercontent.com/wtshex-ch/wtshex-ch/main/assets/workstation-2.jpg" alt="Workstation 2" width="100%"> |
-| --- | --- |
-| Workstation #1 | Workstation #2 |
-
-## About
-
-Text scurt despre tine, tehnologiile preferate, ce lucrezi, etc.
+<h1 align="center">wtshex-ch</h1>
 
 ---
 
-Dacă vrei, pot să:
-- îți fac varianta mai premium / mai minimalistă
-- îți pregătesc un README cu secțiuni "About / Stack / Projects / Contact"
-- îți recomand exact cum să structurezi folderul assets pentru GitHub
-- îți fac un template cu culori și layout mai ales pentru profilul tău
+## 🖥️ Workstation
+
+<p align="center">
+  <img src="assets/workstation-1.svg" alt="Workstation 1" width="45%">
+  &nbsp;
+  <img src="assets/workstation-2.svg" alt="Workstation 2" width="45%">
+</p>
