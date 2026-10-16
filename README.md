@@ -15,7 +15,7 @@
 
 ---
 
-## 🖥️ Workstation
+## Workstation
 
 <p align="center">
   <img src="assets/workstation-1.png" alt="Workstation 1" width="45%">
