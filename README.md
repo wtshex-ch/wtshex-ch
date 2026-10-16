@@ -18,7 +18,7 @@
 ## 🖥️ Workstation
 
 <p align="center">
-  <img src="assets/workstation-1.svg" alt="Workstation 1" width="45%">
+  <img src="assets/workstation-1.png" alt="Workstation 1" width="45%">
   &nbsp;
-  <img src="assets/workstation-2.svg" alt="Workstation 2" width="45%">
+  <img src="assets/workstation-2.png" alt="Workstation 2" width="45%">
 </p>
