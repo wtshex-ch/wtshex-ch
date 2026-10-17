@@ -73,3 +73,12 @@
     <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-000?style=flat&logo=claude&logoColor=fff">
   </picture>
 </p>
+
+---
+
+### Projects
+
+| Project | Description |
+| --- | --- |
+| [**Privon Vault**](https://github.com/PrivonFoundation/PrivonVault) | All-in-One Privacy Vault — client-side encrypted file manager, gallery, music player, and document viewer, where your privacy comes first. |
+| [**Protocol-3305**](https://github.com/PrivonFoundation/protocol-3305) | An open standard for ethical software — a new foundation of respect and protection for the people behind the screen. |
