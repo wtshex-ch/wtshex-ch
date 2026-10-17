@@ -15,7 +15,7 @@
 
 ---
 
-## Workstation
+### Workstation
 
 <p align="center">
   <img src="assets/workstation-1.png" alt="Workstation 1" width="45%">
@@ -25,7 +25,7 @@
 
 ---
 
-## Technologies I develop and experiment with
+### Technologies I develop and experiment with
 
 <p align="center">
   <picture>
@@ -63,5 +63,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Argon2id-fff?style=for-the-badge">
     <img alt="Argon2id" src="https://img.shields.io/badge/Argon2id-000?style=for-the-badge">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OpenCode-fff?style=for-the-badge&logo=opencode&logoColor=000">
+    <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000?style=for-the-badge&logo=opencode&logoColor=fff">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude%20Code-fff?style=for-the-badge&logo=claude&logoColor=000">
+    <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-000?style=for-the-badge&logo=claude&logoColor=fff">
   </picture>
 </p>
