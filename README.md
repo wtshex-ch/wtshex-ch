@@ -80,25 +80,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/wtshex-ch">
-    <img alt="Contribution chart" src="https://ghchart.rshah.org/000000/wtshex-ch">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrivonFoundation&theme=github_dark">
+    <img alt="PrivonFoundation profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrivonFoundation&theme=github">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wtshex-ch&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wtshex-ch&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrivonFoundation&theme=github_dark">
+    <img alt="PrivonFoundation stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrivonFoundation&theme=github" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wtshex-ch&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=8">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtshex-ch&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&langs_count=8" width="49%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wtshex-ch&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff">
-    <img alt="Streak" src="https://streak-stats.demolab.com?user=wtshex-ch&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrivonFoundation&theme=github_dark">
+    <img alt="PrivonFoundation top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrivonFoundation&theme=github" width="49%">
   </picture>
 </p>
