@@ -73,3 +73,32 @@
     <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-000?style=for-the-badge&logo=claude&logoColor=fff">
   </picture>
 </p>
+
+---
+
+### Contributions & Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/wtshex-ch">
+    <img alt="Contribution chart" src="https://ghchart.rshah.org/000000/wtshex-ch">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wtshex-ch&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wtshex-ch&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wtshex-ch&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=8">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtshex-ch&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&langs_count=8" width="49%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wtshex-ch&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff">
+    <img alt="Streak" src="https://streak-stats.demolab.com?user=wtshex-ch&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000">
+  </picture>
+</p>
