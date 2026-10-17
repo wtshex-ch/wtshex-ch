@@ -15,6 +15,16 @@
 
 ---
 
+## Workstation
+
+<p align="center">
+  <img src="assets/workstation-1.png" alt="Workstation 1" width="45%">
+  &nbsp;
+  <img src="assets/workstation-2.png" alt="Workstation 2" width="45%">
+</p>
+
+---
+
 ## Technologies I develop and experiment with
 
 <p align="center">
@@ -54,14 +64,4 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Argon2id-fff?style=for-the-badge">
     <img alt="Argon2id" src="https://img.shields.io/badge/Argon2id-000?style=for-the-badge">
   </picture>
-</p>
-
----
-
-## Workstation
-
-<p align="center">
-  <img src="assets/workstation-1.png" alt="Workstation 1" width="45%">
-  &nbsp;
-  <img src="assets/workstation-2.png" alt="Workstation 2" width="45%">
 </p>
