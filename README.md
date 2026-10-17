@@ -73,25 +73,3 @@
     <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-000?style=flat&logo=claude&logoColor=fff">
   </picture>
 </p>
-
----
-
-### Contributions & Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrivonFoundation&theme=github_dark">
-    <img alt="PrivonFoundation profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrivonFoundation&theme=github">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrivonFoundation&theme=github_dark">
-    <img alt="PrivonFoundation stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrivonFoundation&theme=github" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrivonFoundation&theme=github_dark">
-    <img alt="PrivonFoundation top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrivonFoundation&theme=github" width="49%">
-  </picture>
-</p>
