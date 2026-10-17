@@ -29,48 +29,48 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=000">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-fff?style=flat&logo=typescript&logoColor=000">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=000">
-    <img alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-fff?style=flat&logo=react&logoColor=000">
+    <img alt="React" src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vite-fff?style=for-the-badge&logo=vite&logoColor=000">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vite-fff?style=flat&logo=vite&logoColor=000">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-000?style=flat&logo=vite&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind%20CSS-fff?style=for-the-badge&logo=tailwindcss&logoColor=000">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind%20CSS-fff?style=flat&logo=tailwindcss&logoColor=000">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tauri-fff?style=for-the-badge&logo=tauri&logoColor=000">
-    <img alt="Tauri" src="https://img.shields.io/badge/Tauri-000?style=for-the-badge&logo=tauri&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tauri-fff?style=flat&logo=tauri&logoColor=000">
+    <img alt="Tauri" src="https://img.shields.io/badge/Tauri-000?style=flat&logo=tauri&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Rust-fff?style=for-the-badge&logo=rust&logoColor=000">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Rust-fff?style=flat&logo=rust&logoColor=000">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WASM-fff?style=for-the-badge&logo=webassembly&logoColor=000">
-    <img alt="WASM" src="https://img.shields.io/badge/WASM-000?style=for-the-badge&logo=webassembly&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WASM-fff?style=flat&logo=webassembly&logoColor=000">
+    <img alt="WASM" src="https://img.shields.io/badge/WASM-000?style=flat&logo=webassembly&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AES--256--GCM-fff?style=for-the-badge">
-    <img alt="AES-256-GCM" src="https://img.shields.io/badge/AES--256--GCM-000?style=for-the-badge">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AES--256--GCM-fff?style=flat">
+    <img alt="AES-256-GCM" src="https://img.shields.io/badge/AES--256--GCM-000?style=flat">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Argon2id-fff?style=for-the-badge">
-    <img alt="Argon2id" src="https://img.shields.io/badge/Argon2id-000?style=for-the-badge">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Argon2id-fff?style=flat">
+    <img alt="Argon2id" src="https://img.shields.io/badge/Argon2id-000?style=flat">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OpenCode-fff?style=for-the-badge&logo=opencode&logoColor=000">
-    <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000?style=for-the-badge&logo=opencode&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OpenCode-fff?style=flat&logo=opencode&logoColor=000">
+    <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-000?style=flat&logo=opencode&logoColor=fff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude%20Code-fff?style=for-the-badge&logo=claude&logoColor=000">
-    <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-000?style=for-the-badge&logo=claude&logoColor=fff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude%20Code-fff?style=flat&logo=claude&logoColor=000">
+    <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-000?style=flat&logo=claude&logoColor=fff">
   </picture>
 </p>
 
